@@ -11,5 +11,4 @@ To simplify team coordination by mapping complex workflows into intuitive struct
 ## Tech Stack
 To be decided
 
-## License
-MIT
+
